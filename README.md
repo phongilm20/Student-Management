@@ -51,8 +51,3 @@ The project is organized into **three main classes**, each with a clear responsi
 - **Libraries:** Java Collections Framework (`ArrayList`, `List`)
 
 ---
-
-## 💿 How to Run
-
-1. Make sure **Java Development Kit (JDK)** is installed on your system.  
-2. Open **Terminal / Command Prompt** and navigate to the folder containing:
